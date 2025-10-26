@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at the University of Murcia. I'm currently in my third year, and I'd like to specialize in Software Engineering, although I'm also very interested in the field of Artificial Intelligence.
 
-### 🚀 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
