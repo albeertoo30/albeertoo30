@@ -4,5 +4,5 @@ I'm a Computer Engineering student at the University of Murcia. I'm currently in
 
 You can see my tools, experience and more here: 
 * [albertodomingo.dev](https://albertodomingo.dev/)
-* https://www.linkedin.com/in/alberto-dl/
+* [Linkedin](https://www.linkedin.com/in/alberto-dl/)
 
